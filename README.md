@@ -102,6 +102,3 @@ Back it up by copying that file. Nothing is transmitted anywhere.
 
 ---
 
-## License
-
-MIT — see `LICENSE` for details.
